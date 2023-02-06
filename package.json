@@ -1,6 +1,6 @@
 {
   "name": "nest-ethers",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "homepage": "https://github.com/engcfraposo/nestjs-ethers",
   "description": "Em construção.",
   "main": "dist/index.js",
