@@ -1,5 +1,5 @@
 {
-  "name": "nestjs-ethers",
+  "name": "nest-ethers",
   "version": "1.0.0",
   "homepage": "https://github.com/engcfraposo/nestjs-ethers",
   "description": "Em construção.",
@@ -55,6 +55,9 @@
     "ts-node": "^10.0.0",
     "tsconfig-paths": "4.1.1",
     "typescript": "^4.9.4"
+  },
+  "engines": {
+    "node": "16.9.0"
   },
   "jest": {
     "moduleFileExtensions": [
